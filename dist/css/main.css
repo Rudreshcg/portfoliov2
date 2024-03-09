@@ -79,6 +79,10 @@ a {
   background-color: white;
 }
 
+.bg-red {
+  background-color: #dd2a7b;
+}
+
 .btn-blue-outline, .btn-dark, .btn-blue, .btn {
   display: inline-block;
   padding: 0.8rem 1.5rem;
@@ -473,7 +477,7 @@ header .hero .hero-btns {
 header .socials {
   position: absolute;
   bottom: 40%;
-  left: -125px;
+  left: -135px;
   z-index: 10;
 }
 header .socials ul {
@@ -501,7 +505,7 @@ header .socials ul li a i {
   margin-left: 1.5rem;
 }
 header .socials ul li:hover {
-  transform: translateX(115px);
+  transform: translateX(120px);
 }
 header .scroll-btn-container {
   position: absolute;
